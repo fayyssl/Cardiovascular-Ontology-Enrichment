@@ -1,0 +1,21 @@
+# Secrets — ne jamais committer
+.env
+*.env
+*api_key*
+
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers générés par les notebooks (autres que les résultats versionnés dans data/results/)
+*.owl
+*.rdf
+triplets_a_review_HITL.xlsx
+cvdo_enrichie.owl
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

@@ -1,0 +1,16 @@
+# Notebook 1 — extraction (pipeline_extraction.ipynb)
+pandas
+numpy
+chromadb
+sentence-transformers
+pymupdf
+openai
+anthropic
+transformers
+openpyxl
+
+# Notebook 2 — intégration ontologique (ontology_integration.ipynb)
+rdflib
+
+# Utilitaire pour charger les clés API depuis un fichier .env local
+python-dotenv
